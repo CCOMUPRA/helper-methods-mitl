@@ -7,7 +7,7 @@ const app = express();
 //             Temporary paths
 //-----------------------------------------
 
-// The js with the multer functions
+// The path to the js with the multer functions
 const storagePath = './storage.js';
 
 //-----------------------------------------

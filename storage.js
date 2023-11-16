@@ -1,6 +1,6 @@
 const multer = require('multer');
 
-// Temporary path to the storage folder
+// Path to the storage folder
 const uploadPath = 'server/static/uploads';
 
 
